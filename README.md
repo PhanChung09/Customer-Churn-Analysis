@@ -48,4 +48,4 @@ group defined.
 
 ### 5. Note to Executive Manager - Turning Score into Action
 
-### 6. Notebook [Churn Analysis]()
+### 6. Notebook [Churn Analysis](https://github.com/PhanChung09/Customer-Churn-Analysis/blob/main/Customer%20Churn_Phan_Correction.ipynb)
